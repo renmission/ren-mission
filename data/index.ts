@@ -103,4 +103,4 @@ export const navItems = [
     },
   ];
 
-  export const cvLink = "https://drive.google.com/file/d/1A_9x6k2JphYOp_lFMuELp9GiVpDRnbpH/view"
+  export const cvLink = "https://drive.google.com/file/d/1OPV1A1LvtXEtXpcYSxHx3fUHF_cqaJRe/view?usp=sharing"
