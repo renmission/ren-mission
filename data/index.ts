@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: 'RES SAAS Web Application',
+    title: 'Feedback SAAS Web Application',
     des: 'A Full-Stack SaaS App! The app enables users to collect feedback from their websites and the feedback collection widget is easy to embed.',
     img: '/project-6.png',
     technologies: [
