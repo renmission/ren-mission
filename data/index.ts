@@ -28,7 +28,7 @@ export const projects = [
       'Drizzle ORM',
       'TailwindCSS',
     ],
-    link: 'https://shutterfly.onrender.com',
+    link: 'https://res-feedback.vercel.app/',
   },
   {
     id: 3,
