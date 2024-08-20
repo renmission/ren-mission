@@ -44,7 +44,7 @@ export const projects = [
     des: 'A E-commerce App with with checkout and payment integration.',
     img: '/project-4.png',
     technologies: ['NextJs', 'CSS', 'Context API', 'Sanity'],
-    link: 'https://github.com/renmission/ecommerce-mr-store',
+    link: 'ecommerce-mr-store.vercel.app',
   },
 ];
 
